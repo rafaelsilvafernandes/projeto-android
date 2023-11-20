@@ -10,8 +10,6 @@
     src: url(fontes/idroid.otf);
 }
 
-@media screen and (min-width: 480px){}
-
 :root {
     --cor1: #063d1e;
     --cor2: #2fa866;
@@ -82,8 +80,7 @@ main {
     background-color: white;
     padding: 15px;
     margin: auto;
-    min-width: 400px;
-    max-width: 800px;
+    max-width: 767px;
     border-radius: 0px 0px 5px 5px;
 }
 
