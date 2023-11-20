@@ -10,7 +10,7 @@
     src: url(fontes/idroid.otf);
 }
 
-@media screen and ( max-width: 800px ) {}
+@media screen and ( max-width: 434px ) {}
 
 :root {
     --cor1: #063d1e;
