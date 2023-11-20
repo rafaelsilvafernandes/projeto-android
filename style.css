@@ -114,7 +114,6 @@ article > h2 {
 img {
     margin: auto;
     display: flex;
-    max-width: 800px;
     justify-content: center;
 }
 
