@@ -79,9 +79,10 @@ body {
 }
 
 main {
+    min-width: 300px;
+    max-width: 1000px;
     background-color: white;
     padding: 15px;
-    max-width: 800px;
     margin: auto;
     border-radius: 0px 0px 5px 5px;
 }
@@ -112,9 +113,13 @@ article > h2 {
 }
 
 img {
+    width: 100%;
+}
+
+.pequeno {
+    max-width: 350px;
+    display: block;
     margin: auto;
-    display: flex;
-    justify-content: center;
 }
 
 .video {
