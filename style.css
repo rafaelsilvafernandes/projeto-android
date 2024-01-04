@@ -171,6 +171,8 @@ footer > p {
     font-size: 10px;
 }
 
-span {
+#creator {
     font-weight: bold;
+    color: white;
+    
 }
